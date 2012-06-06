@@ -12,13 +12,9 @@ public class MyActivity extends Activity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
     }
-
     public void newFeatureA() {
         //
-        //awesome dude
         //stuff
-        //coolness
-        // more stuff
     }
 
     public void newFeatureB() {
