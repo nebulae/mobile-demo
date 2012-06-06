@@ -29,4 +29,9 @@ public class MyActivity extends Activity
     public void newFeatureC() {
         //yuuuup
     }
+    
+    public void newFeatureD() {
+        //yes
+    }
+}
 }
