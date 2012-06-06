@@ -24,4 +24,8 @@ public class MyActivity extends Activity
         //
         //mor
     }
+
+    public void newFeatureC() {
+        //yuuuup
+    }
 }
