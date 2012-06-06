@@ -14,6 +14,6 @@ public class MyActivity extends Activity
     }
     public void newFeatureA() {
         //
-        //stuff
+        //coolness
     }
 }
