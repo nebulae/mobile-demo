@@ -26,8 +26,5 @@ public class MyActivity extends Activity
         //yuuuup
     }
     
-    public void newFeatureD() {
-        //yes
-    }
-}
+
 }
